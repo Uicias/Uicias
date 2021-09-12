@@ -20,4 +20,4 @@ Once finished some of them may get published.
 #### Looking for Minecraft server plugins?
 You should take a look at [StrawberryCorporation](https://github.com/StrawberryCorps). An organisation with [Eclixal](https://github.com/Eclixal).
 
-<qTesting is doubting</q> 🧪
+<q>Testing is doubting</q> 🧪
