@@ -21,3 +21,5 @@ Once finished some of them may get published.
 You should take a look at [StrawberryCorporation](https://github.com/StrawberryCorps). An organisation with [Eclixal](https://github.com/Eclixal).
 
 <q>Testing is doubting</q> 🧪
+
+![](https://komarev.com/ghpvc/?username=uicias)
