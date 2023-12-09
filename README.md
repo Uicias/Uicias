@@ -1,25 +1,15 @@
 ### Demat ! 👋
-### 🇫🇷
 
-Salut, je suis Uicias, un étudiant en Master en Informatique.
-En ce moment j'explore pas mal de technologies, produisant ainsi un certain nombre de projets privés.
-Les projets à maturité seront publiés.
+Uicias, sofware engineer.
+Life is K8S, java (spring-*), vue-js, python and php.
 
-#### À la recherche de plugin Minecraft ?
-Allez jeter un coup d'oeil aux projets de la [StrawberryCorporation](https://github.com/StrawberryCorps). Une organisation avec [Eclixal](https://github.com/Eclixal).
+Stay tuned for some projects 🙄
 
-<q>Compiler c'est tester</q> 🧪
-
-### Hey there! 👋
-### 🇬🇧 🇺🇸
-
-Hi! My name is Uicias, a french student in Master's Degree in Computer Science.
-I am currently developing some private projects using various technologies.
-Once finished some of them may get published.
-
-#### Looking for Minecraft server plugins?
+#### Side projects?
 You should take a look at [StrawberryCorporation](https://github.com/StrawberryCorps). An organisation with [Eclixal](https://github.com/Eclixal).
 
+#### Motto ?
 <q>Testing is doubting</q> 🧪
+<q>Compiler c'est tester</q> 🧪
 
 ![](https://komarev.com/ghpvc/?username=uicias)
