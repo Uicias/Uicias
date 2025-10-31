@@ -1,7 +1,8 @@
 ### Demat ! 👋
 
 Uicias, sofware engineer.
-Life is K8S, java (spring-*), vue-js, python and php.
+Java (Spring-*), Vue-js/Angular, Python and PHP.
+K8S, IAC
 
 Stay tuned for some projects 🙄
 
